@@ -1,0 +1,24 @@
+{
+  "name": "oss-2022-02",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dlawodud/oss-2022-02.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dlawodud/oss-2022-02/issues"
+  },
+  "homepage": "https://github.com/dlawodud/oss-2022-02#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "express-session": "^1.17.3",
+    "google-auth-library": "^8.7.0"
+  }
+}
